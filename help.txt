@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="images/globe.png">
+    <link rel="stylesheet" href="style/style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="header">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error fuga ducimus optio, adipisci beatae, iure, iusto omnis expedita quia illo praesentium. Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero assumenda voluptatum fugiat inventore. Optio ipsum corporis, iusto pariatur explicabo esse est fuga numquam itaque delectus consequatur quam eligendi obcaecati fugit labore omnis harum officiis quia facere mollitia impedit! Qui maxime magnam culpa aliquid, error cum repellendus nam minima ratione voluptatibus. Iure veritatis vel omnis, quia commodi provident? Sit, iste?</div>
+        <div class="nav"></div>
+        <div class="main">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque magni, esse totam tenetur quasi repellendus illum adipisci cum quis tempora dicta veritatis aspernatur at consequatur non, voluptate aperiam omnis, obcaecati cupiditate vero! Sit at facere eos eligendi nulla, nostrum assumenda exercitationem esse est culpa suscipit? Et, sapiente asperiores. Voluptas quisquam, quo modi a ad doloribus assumenda at laudantium facilis et quam doloremque nostrum! Hic corporis pariatur facere repellat et eligendi minus, nostrum quasi dignissimos recusandae adipisci non rerum deleniti eius quia amet. Quibusdam optio eligendi aspernatur, perspiciatis corporis est deleniti quos tempora earum. Alias quae nulla, voluptatem, saepe ratione maxime ipsa et dolore eius totam tempore perspiciatis consequuntur minima sed. Vitae ipsa amet aspernatur sint totam hic. Aperiam perspiciatis cumque, reiciendis rerum deserunt, consequatur architecto fugiat ea quos voluptatibus, error ab inventore consectetur praesentium ullam iusto. Consectetur nihil animi voluptates nulla quo eveniet cumque tenetur, alias quos voluptate. Ullam, natus id quidem praesentium ex saepe, quia suscipit adipisci, dolorem accusantium deleniti molestiae eveniet maiores assumenda expedita. Sit, itaque illo tempora corrupti consequuntur odio suscipit rerum perspiciatis ad cum mollitia odit excepturi ullam voluptas nemo minima ea expedita molestiae, ut molestias? Quod illum quo iure rerum laboriosam quibusdam consequatur ipsa harum nemo itaque odio rem placeat facilis at, ab veritatis, neque a deserunt officiis cupiditate facere? Assumenda, quas. Molestias, iste. Ipsum labore consequuntur vitae mollitia quas? Aliquam, assumenda obcaecati veniam commodi blanditiis impedit pariatur perferendis quos? Odio laboriosam dolorem quae molestiae animi architecto. Dolores nemo ducimus facere magni fugiat placeat inventore, quos est porro, sit dicta quibusdam cum ipsum aliquid tempore saepe nisi expedita ut laborum adipisci dolorum et molestias delectus? Nobis odit cum ipsam. Vero omnis, at accusantium, repudiandae veritatis earum quaerat nisi est iusto distinctio, facere repellendus voluptates quisquam minima similique qui velit suscipit. Nemo eum ea nostrum veritatis ad perspiciatis, aliquam porro recusandae consectetur ipsa vel pariatur. Quisquam fugiat illo quasi alias pariatur eos earum ipsum. Debitis necessitatibus minus mollitia ratione temporibus adipisci officia ipsam? Ullam unde praesentium sequi obcaecati quod facilis odit officia reiciendis quisquam officiis perferendis, exercitationem voluptatum. Voluptate odit aspernatur ratione non quas excepturi, iusto esse, ipsum eveniet nisi veniam inventore vitae eius incidunt, laboriosam sit dicta dolorem illum corrupti optio! Rem fugit corrupti numquam amet esse dignissimos sunt, possimus excepturi vel facilis ullam magnam! Earum beatae saepe delectus sequi voluptatem cupiditate exercitationem eaque, rerum, vero provident placeat facere expedita voluptas accusamus repellendus voluptates distinctio?</div>
+        <div class="footer"></div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+.container {
+    max-width: 1200px;
+    min-width: 600px;
+    margin: 0 auto;
+}
+.header {
+    min-height: 100px;
+    background-color: darkcyan;
+}
+.nav {
+    width: 150px;
+    height: 300px;
+    background-color: blue;
+    float: left;
+}
+.main {
+    margin-left: 150px;
+    background-color: yellow;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.footer {
+    height: 200px;
+    background-color: #cccccc;
+}
